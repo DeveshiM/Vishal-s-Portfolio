@@ -4,7 +4,7 @@ import erp from '../assets/image/erp.jpg';
 import compliance from '../assets/image/compliance.jpeg';
 import inventory from '../assets/image/inventory.jpg';
 import customer from '../assets/image/customer.jpg';
-import steamline from '../assets/image/compliance.jpg';
+import steamline from '../assets/image/steamline.jpg';
 import delivery from '../assets/image/delivery.jpeg'
  function Exceptional (){
     return (
@@ -19,7 +19,7 @@ import delivery from '../assets/image/delivery.jpeg'
                         <img src={steamline} alt="" className='rounded-lg h-72 w-full' />
                         <h1 className='text-2xl text-[#3b6893] font-bold text-center mt-5 mb-3'>Streamlines Vehicle and Compliance Management</h1>
 
-                        <p className='text-justify text-[#3b6893] mt-3'>Vishal Rustagi, a skilled professional, leveraged the power of Microsoft Power Platform to craft a cohesive digital solution for streamlined vehicle management. The system provides real-time tracking of vehicles, allowing for continuous monitoring of their condition and any potential fines. Additionally, an accompanying app, designed by Vishal Rustagi, ensures car policy compliance through digital signatures for both existing and new car documents. The platform further streamlines operations by automating driver assignment for stock delivery. Drivers can utilize built-in reporting features to update the status and usage of their assigned vehicles.</p>
+                        <p className='text-justify text-[#3b6893] mt-3'>Vishal Rustagi utilized Microsoft Power Platform to create a comprehensive digital solution for efficient vehicle management. The system enables real-time vehicle tracking, facilitating continuous monitoring of their condition and potential fines. Additionally, Vishal designed an accompanying app ensuring car policy compliance through digital signatures for both existing and new car documents. The platform further enhances operations by automating driver assignment for stock delivery, with drivers utilizing built-in reporting features to update vehicle status and usage.</p>
                     </div>
                     <div className='w-1/2 border-2 rounded-lg h-auto bg-white p-3 shadow-custom-blue'>
                         <img src={erp} alt=""
