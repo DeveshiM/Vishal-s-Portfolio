@@ -2,8 +2,8 @@
 import './App.css'
 import Banner from './Component/Banner'
 import Exceptional from './Component/exceptional'
-import Navbar from './Component/header'
 import Service from './Component/service'
+import Client from './Component/ourClient';
 function App() {
 
 
@@ -13,6 +13,9 @@ function App() {
       <Banner/>
       <Service/>
       <Exceptional/>
+      
+      <Client/>
+    
     </>
   )
 }
