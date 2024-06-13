@@ -10,7 +10,7 @@ import data from '../assets/image/data.jpg'
  function service (){
     return (
         <>
-            <div className="p-5 bg-[#3b6893]">
+            <div className="p-5 bg-[#3b6893]" id='service'>
                 <div className="mt-8 mb-8 "> 
                     <h1 className="text-5xl font-bold text-center text-white">Enterprise Digital Transformation Services</h1>
                     <p className="font-sm text-white text-center mt-5">Offering expertise to envision and architect enterprise-wide digital solutions on cloud and leverage latest technologies for data, AI, automation and app mod.</p>
