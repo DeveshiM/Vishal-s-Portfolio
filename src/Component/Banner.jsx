@@ -1,5 +1,5 @@
 import React from 'react';
-import banner from '../assets/image/banner.jpg'
+import banner from '../assets/image/Vishal Rustagi.png'
 import profile from '../assets/image/picture.jpg'
 import Navbar from './header';
 function Banner(){
