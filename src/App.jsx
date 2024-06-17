@@ -1,21 +1,22 @@
-
 import './App.css'
-import Banner from './Component/Banner'
-import Exceptional from './Component/exceptional'
-import Service from './Component/service'
-import Client from './Component/ourClient';
+import {BrowserRouter,Route, Routes } from 'react-router-dom';
+import Home from './Component/Home';
+import Design from './Component/Design';
+
 function App() {
 
 
   return (
     <>
+      <BrowserRouter>
+        <Routes>
+          <Route path='/' element={<Home/>} />
+        </Routes>
+        <Routes>
+          <Route path='/sample' element={<Design/>} />
+        </Routes>
+      </BrowserRouter>
       
-      <Banner/>
-      <Service/>
-      <Exceptional/>
-      
-      <Client/>
-    
     </>
   )
 }
