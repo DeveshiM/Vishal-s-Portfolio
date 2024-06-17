@@ -22,6 +22,9 @@ function Navbar(){
         <li>
           <a href="#client" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 dark:text-red-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Our Clients</a>
         </li>
+        <li>
+          <a href="/sample" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 dark:text-red-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">UI/UX</a>
+        </li>
       </ul>
     </div>
   </div>
