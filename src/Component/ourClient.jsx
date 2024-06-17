@@ -18,10 +18,10 @@ import img15 from '../assets/image/image-15.png'
  function client(){
     return (
         <>
-            <div className='py-20' id='client'>
-                <div className='p-10 mx-20 border-2 shadow-lg shadow-[#3b6893]'>
+            <div className='' id='client'>
+                <div className='p-5 mx-10'>
                     <div>
-                        <h1 className='py-10 text-[#3b6893] text-5xl text-center font-bold'>Our Clients</h1>
+                        <h1 className='py-5 pb-5 text-[#3b6893] text-5xl text-center font-bold'>Our Clients</h1>
                     </div>
                     <div className='flex p-8 text-center justify-between'>
                         <div  >
