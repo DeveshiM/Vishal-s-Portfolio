@@ -2,7 +2,7 @@ import react from 'react'
 function Navbar(){
     return(
         <>
-        <nav className="bg-inherit fixed  right-0">
+        <nav className="bg-inherit right-0">
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     
     <div className="hidden w-full md:block md:w-auto" id="navbar-default">

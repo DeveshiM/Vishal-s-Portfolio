@@ -17,7 +17,7 @@ function Exceptional() {
     return (
         <>
             <div className="p-5 bg-[#ffffff00]" id='project'>
-                <div className="mt-8 mb-8 ">
+                <div className="mt-8 mb-5 ">
                     <h1 className="text-5xl font-bold text-center text-[#3b6893]">Exceptional Portfolio</h1>
                     <p className="font-sm text-[#3b6893] text-center mt-5">Streamlined and user-friendly and our interface ensures a seamless experience</p>
                 </div>
